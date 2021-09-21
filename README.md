@@ -1,6 +1,6 @@
 # Loan-Data-Analysis
  
-BUSI-488 group project. 
+BUSI-488 (Data Science in the Business World) group project. 
 
 Used peer to peer loan lending data to help a ficticous investor decide how to allocate 10m USD.  
 
